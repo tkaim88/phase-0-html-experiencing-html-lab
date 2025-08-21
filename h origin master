@@ -1,0 +1,550 @@
+[33mcommit 8b1d3e0e355ef375969c3a4a3f7750de31078c79[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: thomas komora buko <tkomoruh@gmail.com>
+Date:   Thu Aug 21 17:28:21 2025 +0300
+
+    first commit
+
+[33mcommit 8227d50735b150ab4b4b4d88a74e4cc8687ea141[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Fri Nov 17 12:41:15 2023 -0500
+
+    AUTO: replace github workflow
+
+[33mcommit 820785a6bd7ce5a8da65243705b6989a6546ce67[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Jul 19 10:40:07 2023 -0400
+
+    Bump word-wrap from 1.2.3 to 1.2.4 (#40)
+    
+    Bumps [word-wrap](https://github.com/jonschlinkert/word-wrap) from 1.2.3 to 1.2.4.
+    - [Release notes](https://github.com/jonschlinkert/word-wrap/releases)
+    - [Commits](https://github.com/jonschlinkert/word-wrap/compare/1.2.3...1.2.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: word-wrap
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit f864869bbd6646f60b85659c809b5c74a40bf1e8[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jul 10 11:43:40 2023 -0400
+
+    Bump tough-cookie from 4.0.0 to 4.1.3 (#39)
+    
+    Bumps [tough-cookie](https://github.com/salesforce/tough-cookie) from 4.0.0 to 4.1.3.
+    - [Release notes](https://github.com/salesforce/tough-cookie/releases)
+    - [Changelog](https://github.com/salesforce/tough-cookie/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/salesforce/tough-cookie/compare/v4.0.0...v4.1.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: tough-cookie
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit 1356007054d7aa92e9918dd7d5e30e73ae7d9e90[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Feb 23 15:00:34 2023 -0500
+
+    Bump nanoid and mocha (#33)
+    
+    Bumps [nanoid](https://github.com/ai/nanoid) to 3.3.1 and updates ancestor dependency [mocha](https://github.com/mochajs/mocha). These dependencies need to be updated together.
+    
+    
+    Updates `nanoid` from 3.1.25 to 3.3.1
+    - [Release notes](https://github.com/ai/nanoid/releases)
+    - [Changelog](https://github.com/ai/nanoid/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/ai/nanoid/compare/3.1.25...3.3.1)
+    
+    Updates `mocha` from 9.1.3 to 9.2.2
+    - [Release notes](https://github.com/mochajs/mocha/releases)
+    - [Changelog](https://github.com/mochajs/mocha/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/mochajs/mocha/compare/v9.1.3...v9.2.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nanoid
+      dependency-type: indirect
+    - dependency-name: mocha
+      dependency-type: direct:development
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit 5de6783f73422ffcdeb415035022832e2aeb9732[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Feb 23 15:00:16 2023 -0500
+
+    Bump minimatch and mocha (#29)
+    
+    Bumps [minimatch](https://github.com/isaacs/minimatch) to 4.2.1 and updates ancestor dependency [mocha](https://github.com/mochajs/mocha). These dependencies need to be updated together.
+    
+    
+    Updates `minimatch` from 3.0.4 to 4.2.1
+    - [Release notes](https://github.com/isaacs/minimatch/releases)
+    - [Commits](https://github.com/isaacs/minimatch/compare/v3.0.4...v4.2.1)
+    
+    Updates `mocha` from 9.1.3 to 9.2.2
+    - [Release notes](https://github.com/mochajs/mocha/releases)
+    - [Changelog](https://github.com/mochajs/mocha/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/mochajs/mocha/compare/v9.1.3...v9.2.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: minimatch
+      dependency-type: indirect
+    - dependency-name: mocha
+      dependency-type: direct:development
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit b08fd3079ddcba30de923c43fe66e92fc439c56c[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Tue Dec 27 12:14:17 2022 -0500
+
+    Add reminders
+
+[33mcommit 3f5d4a6062ab5b111f72e29aa823b13e33a3245b[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Thu Dec 22 11:02:12 2022 -0500
+
+    update for codegrade
+
+[33mcommit 24f25afb1f9f945bfa09370043afae1f5e450787[m
+Author: Jerrica Bobadilla <jbobadilla27@gmail.com>
+Date:   Fri Dec 16 11:22:53 2022 -0800
+
+    update workflow
+
+[33mcommit a7855c887d4720f02d90b2b1c12945bb741cce30[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Wed Dec 14 15:26:20 2022 -0500
+
+    remove old prep from .canvas file (#32)
+
+[33mcommit dd77a3d70f617158680d97272710bbcc8808d7a2[m
+Author: Jerrica Bobadilla <jbobadilla27@gmail.com>
+Date:   Wed Dec 7 13:46:02 2022 -0800
+
+    add require to test file
+
+[33mcommit cc8f9a6dfeb08d9e571f492ae68130e53b631323[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Tue Nov 22 19:56:57 2022 -0500
+
+    Update .canvas file
+
+[33mcommit 62f054b44697337155c64c1088234c8024fc4292[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Aug 12 09:27:29 2022 -0400
+
+    Bump minimist from 1.2.5 to 1.2.6 (#20)
+    
+    Bumps [minimist](https://github.com/substack/minimist) from 1.2.5 to 1.2.6.
+    - [Release notes](https://github.com/substack/minimist/releases)
+    - [Commits](https://github.com/substack/minimist/compare/1.2.5...1.2.6)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: minimist
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit 22d129d5487108afc634cf723929a7887fe871a2[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Fri Dec 17 08:31:58 2021 -0500
+
+    Shape up prework (#14)
+    
+    * update readme for new sequencing
+    
+    * update gh workflow to remove prework flag
+    
+    * update test instructions for new sequencing
+
+[33mcommit e7f2d27af99918da2128966fd7fabe67e97588ee[m
+Author: Gracie McGuire <40892567+graciemcguire@users.noreply.github.com>
+Date:   Tue Dec 14 13:45:45 2021 -0500
+
+    Gracie patch (#15)
+    
+    * changes examples
+    
+    * changes images
+
+[33mcommit 48653fdac702a01d05aa8cc37af24bd218794b1e[m
+Author: Ian Hollander <39830572+ihollander@users.noreply.github.com>
+Date:   Mon Nov 22 17:04:47 2021 -0500
+
+    Update tests for Mocha (#11)
+    
+    * Updated tests for mocha
+    
+    * Fix hint
+    
+    * Updated fork instructions
+
+[33mcommit cf647aa36222cd38e7ed340f9156764062f91a29[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Mon Aug 23 09:47:11 2021 -0400
+
+    bash -> console
+
+[33mcommit 922ef5e046a7c7c30d45776489dc8478485f5b33[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Fri Jul 30 15:28:15 2021 -0400
+
+    AUTO: updated workflow to html version
+
+[33mcommit 26fa32a45de6720d63714826d0e1c8645c01fbf0[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Wed Jul 7 15:52:29 2021 -0400
+
+    AUTO: removed incorrect workflow
+
+[33mcommit b94b22eb84b386a4aa3a448562d7b37ccdfaffeb[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Wed Jul 7 15:23:13 2021 -0400
+
+    AUTO: switched to prework workflow
+
+[33mcommit 1d950da9d44faee149039db21d78efebb150e14c[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Wed Jul 7 10:10:57 2021 -0400
+
+    AUTO: Added .canvas file and github workflow
+
+[33mcommit 8758e051f1bfe9e103c6c8a0a5c5621f9ce364d0[m
+Author: Blake A. Long <blake.a.long@gmail.com>
+Date:   Thu Jun 24 14:46:41 2021 -0600
+
+    Updated README.md for clarity
+
+[33mcommit c020a2a86a56302e938e54851709d6cb3ad24db1[m
+Author: ihollander <ianholla@gmail.com>
+Date:   Sat Jun 19 08:04:14 2021 -0400
+
+    Fixed typos and clarified instructions
+
+[33mcommit dedbfdc60c7b631d91771da4ce8c74bcdf0c851c[m
+Author: Blake A. Long <blake.a.long@gmail.com>
+Date:   Thu May 13 10:35:11 2021 -0600
+
+    Updated for clarity
+
+[33mcommit b314b4b061be3a55ae6597460374725a251d4f95[m
+Author: Blake A. Long <blake.a.long@gmail.com>
+Date:   Thu Apr 15 12:38:26 2021 -0600
+
+    Updated README instructions for clarity
+
+[33mcommit 990a52897cec784aadd8e41ed8632922b766299a[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Wed Apr 7 13:03:24 2021 -0400
+
+    fix code snippet indentation
+
+[33mcommit 0282acd51476d780f222df80ac74bec3aa9e1c3a[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Wed Apr 7 13:01:42 2021 -0400
+
+    arbitrary commit
+
+[33mcommit dd4cce44f32d2db0a5743869848368539772a4fa[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Wed Apr 7 13:00:28 2021 -0400
+
+    remove extra space
+
+[33mcommit a00b91d972ab54fb7b194ffe4d2da47b435077f2[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Wed Apr 7 12:59:05 2021 -0400
+
+    Create .canvas
+
+[33mcommit c19da9ebe58661f03b409c85b0d8684fa5c3c914[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Wed Apr 7 12:58:02 2021 -0400
+
+    Create canvas-sync-html-prework.yml
+
+[33mcommit 9a693926b8c3a5f475629ba510ed4e08048de7d4[m
+Author: max b <maxwellbenton@gmail.com>
+Date:   Thu Apr 1 15:54:56 2021 -0400
+
+    AUTO: Fix typo
+
+[33mcommit b678dd4f6db928b70c26457c4f8631ff71e59caa[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Mon Mar 29 13:31:08 2021 -0400
+
+    Edit for clarity
+
+[33mcommit e82e31e0f20f7137ff9060eec4a4bf5a90bf0c15[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Mon Mar 29 10:24:27 2021 -0400
+
+    Minor edit
+
+[33mcommit 1afcc957b88b1a6a4fd13431b2486243fd4eccb6[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Mon Mar 29 10:22:20 2021 -0400
+
+    Add instruction to use touch
+
+[33mcommit 2a5170c475a6da778668d14178f67ca34fd5ee31[m
+Merge: 1d92c57 be92057
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Sat Mar 13 08:12:31 2021 -0500
+
+    Merge pull request #8 from bal360/patch-1
+    
+    fixed typos and adjusted wording
+
+[33mcommit be920571c2b412633862b35af83091ca778d36c4[m
+Author: Blake A. Long <blake.a.long@gmail.com>
+Date:   Fri Mar 12 18:42:12 2021 -0700
+
+    changed wording
+
+[33mcommit 6c4b45d0c83d52822a8d608eb213b14c89a214a7[m
+Author: Blake A. Long <blake.a.long@gmail.com>
+Date:   Wed Mar 10 12:36:30 2021 -0700
+
+    fixed typos and adjusted wording
+
+[33mcommit 1d92c5770e775e075c145bc98bad05b253d5e18d[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Sat Mar 6 08:54:06 2021 -0500
+
+    Typo fix
+
+[33mcommit c1b4e1e9ef04768629dba4a511704051b5e546e1[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Mon Mar 1 09:31:15 2021 -0500
+
+    additional clarification; error fix
+
+[33mcommit ef290a1c199ed1b0d182ba60a732080f98723c3e[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Mon Mar 1 09:18:24 2021 -0500
+
+    more formatting fixes
+
+[33mcommit a3d9a4f9228043104220b9748ab58f0ecab2a6fc[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Mon Mar 1 09:03:03 2021 -0500
+
+    formatting fix
+
+[33mcommit 0f757c3d5439604023c6931309335ac3fb365106[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Mon Mar 1 08:58:48 2021 -0500
+
+    formatting fixes
+
+[33mcommit 0d07ab78902768fb28d5620b6d7a68fee39dc077[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Mon Mar 1 08:39:59 2021 -0500
+
+    Clarifications
+
+[33mcommit a7b8457d4576caf4ea182c7f6c09e21d770e09e2[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Tue Jan 12 21:43:37 2021 -0500
+
+    add message on pushing to git
+
+[33mcommit 48631e54efa0986ff75f580f9ef04d150e647dd9[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Tue Jan 12 10:48:52 2021 -0500
+
+    fix typos
+
+[33mcommit c1a821660a723154504d088859e8ec74a14983a5[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Tue Jan 12 10:46:55 2021 -0500
+
+    add note on cloud9 opening files
+
+[33mcommit 375a49a4849b0cf922196832748ccbf4a8954cbd[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Mon Jan 11 10:20:09 2021 -0500
+
+    add WSL instruction for opening HTML, note on Chrome
+
+[33mcommit ac802eb59bc93c2628f6d06df2d203cefed1a6cb[m
+Author: maxwell <maxwellbenton@gmail.com>
+Date:   Sun Jan 10 19:57:42 2021 -0500
+
+    add gemfile, rspec config
+
+[33mcommit ce988a5b729d18ad5294bf0ba9a8560b81db982f[m
+Author: Maxwell Benton <maxwellbenton@gmail.com>
+Date:   Sun Jan 10 19:53:53 2021 -0500
+
+    update for phase 0
+
+[33mcommit 5cd6b10861a145850b36f9506e2976ba386d8625[m
+Merge: 0945f21 34619a9
+Author: Jen Myers <jenmyers@users.noreply.github.com>
+Date:   Mon May 13 16:45:16 2019 -0500
+
+    Merge pull request #1 from learn-co-curriculum/wip-update
+    
+    Clean up text
+
+[33mcommit 34619a9d064c2353c5ee1690e4217d1cbd88db57[m
+Author: jenmyers <jen.myers@flatironschool.com>
+Date:   Mon May 13 16:44:50 2019 -0500
+
+    Clean up text
+
+[33mcommit 0945f2156930105971513dc19201c7e6e23a7d0b[m
+Author: Jen Myers <jenmyers@users.noreply.github.com>
+Date:   Wed Apr 24 15:17:07 2019 -0500
+
+    Edit instructions for inclusivity
+
+[33mcommit b15bf3488b6ff4b930f55eed7f0aeab9584cd7b0[m
+Author: Jen Myers <jenmyers@users.noreply.github.com>
+Date:   Wed Apr 24 15:07:15 2019 -0500
+
+    Fix typo and spacing
+
+[33mcommit 7b94ffaae0c9c84545d90ef2176a75dbb9c6d230[m
+Author: Jen Myers <jenmyers@users.noreply.github.com>
+Date:   Wed Apr 24 15:04:21 2019 -0500
+
+    Clarify language
+
+[33mcommit 5e1e6fd263f07f1c7fd8558049c165b76bb5e7e2[m
+Author: Jen Myers <jenmyers@users.noreply.github.com>
+Date:   Wed Apr 24 15:03:09 2019 -0500
+
+    Clarify language
+
+[33mcommit 8c1da64013413ad812b330539663d53954e31ba4[m
+Author: Peter Bell <PeterBell@users.noreply.github.com>
+Date:   Wed Jun 13 15:43:10 2018 -0600
+
+    Remove unnecessary /
+
+[33mcommit a3f2efaa8bec97c8c223166b817eb9c7ed658b06[m
+Author: Steven G. Harms <sgharms+github-notifications@stevengharms.com>
+Date:   Wed Jun 13 16:54:51 2018 -0400
+
+    Clarify that filename must be specified.
+
+[33mcommit 60924049908aa6f2e10d8c33c0cdf738f561b7e3[m
+Author: Peter Bell <PeterBell@users.noreply.github.com>
+Date:   Thu Jun 7 16:30:12 2018 -0600
+
+    Minor edits
+
+[33mcommit d08edab6cc8c783edfec53654d613fed14e5dfd3[m
+Author: Steven G. Harms <sgharms+github-notifications@stevengharms.com>
+Date:   Wed Jun 6 20:58:24 2018 -0400
+
+    Punctuation fix
+
+[33mcommit ff25f38fe33ca0f3fbb0564a1ab38e3dc286be9d[m
+Merge: 0bbe0a5 210614a
+Author: Steven G. Harms <sgharms+github-notifications@stevengharms.com>
+Date:   Wed Jun 6 20:56:50 2018 -0400
+
+    Merge pull request #3 from learn-co-curriculum/simplified-sgh-pb
+    
+    Simplified sgh pb
+
+[33mcommit 210614a3e9044ead764c919940319f2d6ece794e[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Wed Jun 6 20:54:51 2018 -0400
+
+    Readability pass: 4.3
+
+[33mcommit a3423475bf510fcef502f07e795314c33571a888[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Wed Jun 6 20:48:53 2018 -0400
+
+    Word spacing
+
+[33mcommit 570875b300aac224a8ae8de2c0ed40423c9b7280[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Wed Jun 6 20:48:14 2018 -0400
+
+    rm stray scratch files
+
+[33mcommit dc97569cd4c4e0d409a8ad9bff8444aa36bc3510[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Wed Jun 6 17:06:51 2018 -0400
+
+    Simplify
+
+[33mcommit 0bbe0a51d5f3955651d925eb94480011013a8f25[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Wed Jun 6 09:03:18 2018 -0400
+
+    Update README.md
+
+[33mcommit 094aedeb1cde96363fc457b40554882d94860245[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Wed May 30 18:07:52 2018 -0400
+
+    Readbility.io Rating
+    
+    5.6 Grade
+
+[33mcommit 07b1b7984ac78f04378aa075251eb87ce0ef4b90[m
+Author: maxwell <github email address>
+Date:   Wed May 30 12:59:32 2018 -0400
+
+    minor edits, fixing grammar
+
+[33mcommit 15fe42e6930dea20f437d8b04275728d06f9ef14[m
+Author: Steven G. Harms <sgharms+github-notifications@stevengharms.com>
+Date:   Tue May 29 18:41:16 2018 -0400
+
+    README: Update learn submission protocol to match
+
+[33mcommit a4530e913371dfcf078c8e8d8e04645f33577ae4[m
+Merge: c02ef97 10e13d1
+Author: Steven G. Harms <sgharms+github-notifications@stevengharms.com>
+Date:   Thu May 24 17:04:35 2018 -0400
+
+    Merge pull request #1 from learn-co-curriculum/add-vacuous-lab-test
+    
+    Add simple test for lab progression
+
+[33mcommit 10e13d1f9deb52293f5eec94525f64ddc8d5d8ca[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Thu May 24 17:02:51 2018 -0400
+
+    Add simple test for lab progression
+
+[33mcommit c02ef97692418eae030fb37925edf225ca87fcf4[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Thu May 24 13:47:45 2018 -0400
+
+    Initial README
+
+[33mcommit 54e4e2a68cb45c707aed4afb324d67693f29c01f[m
+Author: Steven G. Harms <steven.harms@flatironschool.com>
+Date:   Wed May 23 10:32:38 2018 -0400
+
+    Initial Commit
